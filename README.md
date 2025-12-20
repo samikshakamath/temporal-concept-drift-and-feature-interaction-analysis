@@ -1,5 +1,4 @@
 # Temporal Concept Drift and Feature Interaction Analysis
-
 This repository implements a **drift-aware, explainable machine learning framework** to study how predictive relationships and feature dependencies evolve over time under **non-stationarity**.
 
 The project is grounded in a real-world longitudinal dataset of airline customer reviews and focuses on **concept drift**, **robust feature reliance**, and **interaction dynamics**, rather than static prediction.
