@@ -83,6 +83,8 @@ Chosen for:
 
 ## Explainability and Drift Methodology
 
+
+![Model Class Reliance analysis](mcr.jpg)
 ### 1. Model Class Reliance (MCR)
 - Computes reliance intervals across the **Rashomon set** of near-optimal models
 - Focus on **MCR⁺ (upper bound)** as a conservative measure of feature necessity
@@ -111,7 +113,7 @@ Validated using:
 ---
 
 ## Key Findings (High Level)
-
+![Key results across periods](result.jpg)
 ### British Airways
 - Abrupt, crisis-sensitive drift
 - Strong reweighting toward refunds, disruptions, and ground service during COVID
